@@ -69,7 +69,7 @@ CMDMachine is released under the MIT License. See the [LICENSE](LICENSE) file fo
 
 ## Contact
 
-For any questions or feedback, please open an issue on our [GitHub repository](https://github.com/yourusername/cmdmachine).
+For any questions or feedback, please open an issue on our [GitHub repository](https://github.com/sochiyuzuki/cmdmachine).
 
 ---
 
